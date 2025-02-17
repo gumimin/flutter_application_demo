@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/hkihara/dev/lemino/lemino-client-mobile/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hkihara/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hkihara/dev/flutter/flutter_application_demo/android/app/.cxx/Debug/t1a1m6h6/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hkihara/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hkihara/dev/flutter/flutter_application_demo/android/app/.cxx/Debug/t1a1m6h6/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

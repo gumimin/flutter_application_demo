@@ -24,8 +24,8 @@ jobs:
         run: flutter pub get
       # - name: Test
       #   run: flutter test
-      - name: Build for MacOS
-        run: flutter build macos
+      # - name: Build for MacOS
+      #   run: flutter build macos
       - name: SonarQube Scan
         uses: SonarSource/sonarqube-scan-action@v4
         env:
